@@ -1,1 +1,2 @@
 # mathgame4kids
+"Cristy's Math Game" is a heartfelt math game created with empathy for young learners (1st to 4th-grade students) like my little sister, who may struggle with basic math concepts. With its friendly & simple UI, it offers interactive challenges in addition, subtraction, multiplication, and division. Made with love, it provides a supportive environment for young learners to build confidence and enjoy mastering basic math skills.
